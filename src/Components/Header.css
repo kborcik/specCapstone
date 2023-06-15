@@ -1,0 +1,28 @@
+header {
+  width: 100vw;
+  height: 100px;
+  background-color: #476A6F;
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.header {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 16px;
+  color: #C5C9A4;
+}
+
+.dropdown-vis {
+  display: block;
+  gap: 10px;
+  justify-content: space-evenly;
+  background-color: beige;
+}
+
+.dropdown-hidden {
+  display: none;
+}
