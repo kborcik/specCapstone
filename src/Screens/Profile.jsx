@@ -44,7 +44,7 @@ const Profile = (props) => {
       </option>
       {options}
     </select>
-    <h2>{setUsername}</h2>
+    <h2>{username}</h2>
       <PieChart width={700} height={700}>
         <Pie
           data={data}
